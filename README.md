@@ -1,14 +1,11 @@
 <!-- ============================================ -->
-<!-- CUSTOM SUNSET HEADER -->
+<!-- CUSTOM ANIMATED HEADER -->
 <!-- ============================================ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=250&section=header&text=&fontSize=0&animation=twinkling" />
-</div>
-
-<div align="center" style="margin-top: -200px;">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Ragil+Riztianda;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing Name" />
+  <h1 align="center" style="margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
   </h1>
+  <img width="100%" src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="Header Animation" />
 </div>
 
 <!-- Profile Stats -->
@@ -76,15 +73,44 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-    <b>Tech Stack</b>
+    <b>Tech Stack & Tools</b>
   </h2>
+  <p>Technologies I Work With</p>
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,nodejs,express,python,django,php,laravel,java,spring,mongodb,mysql,postgresql,redis,firebase,supabase,git,github,docker,vscode,figma,postman,vercel,netlify&perline=16" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,java,spring" alt="Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" alt="Database" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,netlify" alt="Tools" />
+</div>
+
+<br>
+
+<!-- Horizontal Scrolling Tech Icons -->
+<div align="center">
+  
+### 🔥 My Tech Arsenal
+
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
 </p>
+
+</div>
 
 <br><br>
 
@@ -115,7 +141,7 @@
 <br><br>
 
 <!-- ============================================ -->
-<!-- 3D CONTRIBUTION & SNAKE -->
+<!-- CONTRIBUTION SNAKE -->
 <!-- ============================================ -->
 
 <div align="center">
@@ -133,6 +159,10 @@
 </picture>
 
 <br><br>
+
+<!-- ============================================ -->
+<!-- 3D CONTRIBUTION GRAPH -->
+<!-- ============================================ -->
 
 <div align="center">
   <h2>
@@ -246,25 +276,17 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=150&section=footer&animation=twinkling" width="100%" />
-</div>
-
-<div align="center" style="margin-top: -100px;">
-  <h3>
+  <img width="100%" src="https://i.pinimg.com/originals/d8/d4/6d/d8d46d3473d30d27d4902ab489e8501d.gif" alt="Footer Animation" />
+  <h3 style="margin-top: -50px;">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
     Thanks for visiting! 
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   </h3>
-  <p>
-    <img src="https://img.shields.io/github/followers/ragil1001?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/ragil1001?label=Stars&style=social" alt="GitHub Stars" />
-  </p>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
 
