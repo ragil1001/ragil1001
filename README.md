@@ -7,15 +7,15 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=ragil1001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ragil1001?label=Followers&style=social" alt="followers" />
 </div>
 
 ## 🚀 About Me
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Ragil Riztianda",
     location: "Semarang, Indonesia 🇮🇩",
     role: "Full Stack Developer",
     code: ["JavaScript", "Python", "Java", "PHP"],
@@ -60,32 +60,32 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ragil1001&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragil1001&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragil1001&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ragil1001&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=141321&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragil1001&bg_color=141321&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_1&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_2&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME/PROJECT_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ragil1001&repo=PROJECT_REPO_1&theme=radical&hide_border=true)](https://github.com/ragil1001/PROJECT_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ragil1001&repo=PROJECT_REPO_2&theme=radical&hide_border=true)](https://github.com/ragil1001/PROJECT_REPO_2)
 
 </div>
 
@@ -93,7 +93,7 @@ const developer = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ragil Riztianda)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
