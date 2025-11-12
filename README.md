@@ -11,9 +11,9 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Total%20Visits&color=F75C7E&style=flat-square" alt="visits" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=F75C7E&style=flat-square&label=Repositories&query=$.public_repos&url=https://api.github.com/users/YOUR_USERNAME" alt="repos" />
-  <img src="https://img.shields.io/github/commit-activity/m/YOUR_USERNAME/YOUR_USERNAME?color=F75C7E&style=flat-square&label=Commits%20This%20Month" alt="commits" />
+  <img src="https://komarev.com/ghpvc/?username=ragil1001&label=Total%20Visits&color=F75C7E&style=flat-square" alt="visits" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=F75C7E&style=flat-square&label=Repositories&query=$.public_repos&url=https://api.github.com/users/ragil1001" alt="repos" />
+  <img src="https://img.shields.io/github/commit-activity/m/ragil1001/ragil1001?color=F75C7E&style=flat-square&label=Commits%20This%20Month" alt="commits" />
 </p>
 
 <br>
@@ -120,13 +120,13 @@ const ragil = {
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragil1001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragil1001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragil1001&theme=tokyonight&hide_border=true&background=0d1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -148,9 +148,9 @@ const ragil = {
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ragil1001/ragil1001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ragil1001/ragil1001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ragil1001/ragil1001/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -162,7 +162,7 @@ const ragil = {
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Ragil's%20Contribution%20Graph&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area_color=F75C7E&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragil1001&custom_title=Ragil's%20Contribution%20Graph&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area_color=F75C7E&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -173,7 +173,7 @@ const ragil = {
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=F75C7E" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ragil1001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=F75C7E" alt="GitHub Trophies" />
 
 </div>
 
@@ -200,7 +200,7 @@ const ragil = {
   <a href="https://ragil-riztianda.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/ragil1001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
