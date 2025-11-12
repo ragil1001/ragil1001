@@ -1,12 +1,13 @@
+<h1 id="top" style="visibility:hidden;"></h1>
+
 <!-- ============================================ -->
 <!-- CUSTOM ANIMATED HEADER -->
 <!-- ============================================ -->
 <div align="center">
-  <h1 align="center" style="margin-bottom: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-  </h1>
-  <img width="100%" src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="Header Animation" />
+  <img width="100%" src="unwatermark_d733345e4f11231904e7634a04439e21_V1 (2).gif" alt="Header Animation" />
 </div>
+
+<br><br>
 
 <!-- Profile Stats -->
 <p align="center">
@@ -141,40 +142,21 @@
 <br><br>
 
 <!-- ============================================ -->
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE - ANIMATED -->
 <!-- ============================================ -->
 
 <div align="center">
   <h2>
     🐍 <b>Contribution Snake</b>
   </h2>
+  <p>Watch the snake eat my GitHub contributions!</p>
 </div>
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ragil1001/ragil1001/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ragil1001/ragil1001/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ragil1001/ragil1001/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br><br>
-
-<!-- ============================================ -->
-<!-- 3D CONTRIBUTION GRAPH -->
-<!-- ============================================ -->
 
 <div align="center">
-  <h2>
-    📊 <b>3D Contribution Graph</b>
-  </h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-<br>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
 
 <br><br>
 
@@ -261,11 +243,10 @@
 
 <div align="center">
   <h2>💭 <b>Quote of the Day</b></h2>
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_category=programming" />
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true&quote_category=programming" />
+  <br><br>
 </div>
-
-<br><br>
 
 <!-- ============================================ -->
 <!-- FOOTER -->
@@ -277,7 +258,7 @@
 
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/originals/d8/d4/6d/d8d46d3473d30d27d4902ab489e8501d.gif" alt="Footer Animation" />
-  <h3 style="margin-top: -50px;">
+  <h3>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
     Thanks for visiting! 
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -294,11 +275,12 @@
 
 <div align="center">
   <p>© 2025 Ragil Riztianda • Built with passion and dedication</p>
-  <p>
-    <a href="#top">
-      <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top" />
-    </a>
-  </p>
+  <p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top" />
+  </a>
+</p>
+
 </div>
 
 <br><br>
