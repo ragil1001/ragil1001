@@ -82,36 +82,16 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,java,spring" alt="Backend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" alt="Database" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,netlify" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter,dart" alt="Frontend" />
+  <!-- <br/> -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,java" alt="Backend" />
+  <!-- <br/> -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" alt="Database" />
+  <!-- <br/> -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,nginx" alt="Tools" />
 </div>
 
 <br>
-
-<!-- Horizontal Scrolling Tech Icons -->
-<div align="center">
-  
-### 🔥 My Tech Arsenal
-
-<p>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
-</p>
-
-</div>
 
 <br><br>
 
@@ -194,42 +174,45 @@
 
 <br>
 
+<!-- 🌐 Let's Connect Section (Elegant GitHub-Friendly Version) -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-          <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" /><br>
-          <sub><b>LinkedIn</b></sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://twitter.com/YOUR_TWITTER">
-          <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60" /><br>
-          <sub><b>Twitter</b></sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://instagram.com/YOUR_INSTAGRAM">
-          <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="60" /><br>
-          <sub><b>Instagram</b></sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="mailto:your.email@example.com">
-          <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60" /><br>
-          <sub><b>Email</b></sub>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://ragil-riztianda.vercel.app/">
-          <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60" /><br>
-          <sub><b>Portfolio</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="margin: 8px; transform: scale(1); transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter"
+      style="margin: 8px; transform: scale(1); transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+      style="margin: 8px; transform: scale(1); transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+      style="margin: 8px; transform: scale(1); transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://ragil-riztianda.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+      style="margin: 8px; transform: scale(1); transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"/>
+  </a>
 </div>
+
 
 <br>
 
